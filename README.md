@@ -2,7 +2,7 @@
 # React-API-Weather-APP-II
 Web application that through an api looks for the climate of different cities in different countries
 
-![](https://github.com/FranciscoSanvicente/React-API-Weather-APP-II/blob/main/Captura5.PNG)
+![](https://github.com/FranciscoSanvicente/React-Aplicacion-Web-del-clima/blob/main/Captura.PNG)
 
 To install and start:
 ```
